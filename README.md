@@ -2,7 +2,7 @@
 caesar621@thinkpadt480:~$ hyfetch --stack
 
 🥇 OS:        Arch Linux x86_64
-☕ Backend:   Java, Spring Boot, Hibernate
+☕ Backend:   Java, Spring Boot, Hibernate, Python, Flask
 🐘 Web:       PHP, Laravel
 🚀 Runtime:   Node.js, JavaScript
 🗄️ Database:  PostgreSQL, MySQL
